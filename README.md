@@ -1,6 +1,6 @@
 # Potato Disease Detection System
 
-https://www.linkedin.com/feed/update/urn:li:activity:7347185551906680850/
+LinkedIn Post >> https://www.linkedin.com/feed/update/urn:li:activity:7347185551906680850/
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
